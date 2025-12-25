@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](banner/my-cover.jpg)
+<p align="center">
+  <img src="banner/my-cover.jpg" alt="MasterHead" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Md Salehin</h1>
