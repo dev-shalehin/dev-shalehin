@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="banner/my-cover.jpg" alt="MasterHead" />
+  <img src="banner/my Cover.jpg" alt="MasterHead" />
 </p>
 
 
